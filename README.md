@@ -8,7 +8,7 @@ Este proyecto analiza ventas en supermercados usando Python y pandas en Kaggle. 
 - GitHub (documentación)
 
 ## 📊 Visualizaciones
-![Ventas por ciudad](images/dashboard.png)
+![Ventas por Línea de Producto](Images/VtasXLineaProducto.png)
 
 ## 📁 Estructura
 - `data/`: dataset original
